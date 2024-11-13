@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![alt text](image.png)
+![alt text](Screenshot1.png)
 
 This project is a simple tip calculator built with [Python 3](https://www.python.org/downloads/) that helps users easily calculate the total cost of a meal, including tip. The program prompts the user to enter the bill amount, select a tip percentage, and optionally split the bill among multiple people. It then calculates the tip amount and displays the total cost per person. This project is perfect for practicing basic Python skills like user input, conditional statements, and arithmetic operations.
 
